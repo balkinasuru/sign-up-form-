@@ -1,0 +1,94 @@
+body{
+	background-color: #ff8080;
+	margin:80px;
+	text-align:center;
+
+}
+
+
+.intro{
+	padding:80px 0;
+	text-align:start;
+}
+
+h1{
+	color: #ffffff;
+	line-height:0.5em;
+}
+p{
+	color:#ffffff;
+}
+
+.button1{
+	
+
+}
+
+.container0{
+	background-color:white;
+	width:430px;
+	text-align:center;
+
+}
+	
+.container1{
+	padding:10px 40px;
+	height:30px;
+	display:flex;
+
+
+	
+}
+
+.form{
+	width:50%;
+	float:right;
+	text-align:center;
+
+}
+
+.text{
+	width:50%;
+	float:left;
+}
+
+.click{
+	color:#e7e7e7;
+	padding:10px 10px;
+	font-size:10px;
+
+}
+.terms{
+	color:red;
+}
+
+.button1{
+	background-color:purple;
+	text-align:center;
+	width:430px;
+}
+
+
+.btn{
+	text-align:center;
+	width:430px;
+	padding:10px 0;
+}
+
+
+input{
+	width:350px;
+}
+
+
+.form2{
+	width:350px;
+	background-color:green;
+	text-align:center;
+}
+
+
+
+.fmbtn{
+	text-align:center;
+}
